@@ -2,6 +2,7 @@
 Welcome to my repository for Coursera's Aerial Robotics course assignments, which explore quadrotor mechanics and control strategies.
 
 Course Highlights:
+
 Week 1: Introduction to Aerial Robotics
 Basic mechanics and component selection.
 
