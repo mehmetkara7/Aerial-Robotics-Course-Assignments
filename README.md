@@ -3,18 +3,26 @@ Welcome to my repository for Coursera's Aerial Robotics course assignments, whic
 
 Course Highlights:
 
-Week 1: Introduction to Aerial Robotics
+Week 1: 
+
+Introduction to Aerial Robotics
 Basic mechanics and component selection.
 
-Week 2: Geometry and Mechanics
+Week 2: 
+
+Geometry and Mechanics
 Kinematics and dynamic modeling.
 Assignment: 1-D Quadrotor Control.
 
-Week 3: Planning and Control
+Week 3: 
+
+Planning and Control
 Developing linear controllers.
 Assignment: 2-D Quadrotor Control.
 
-Week 4: Advanced Topics
+Week 4:
+
+Advanced Topics
 Agile maneuvers and autonomous operations.
 Assignment: 3-D Quadrotor Control.
 
